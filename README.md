@@ -12,3 +12,5 @@ It is assumed that you are using a mac. X-Code, npm and node are necessary for t
 * node >6
 * npm >4
 * X-Code, the latest one.
+
+***NOTE: For some reason if the initial run shows an error regarding the run-time, just reload the app. The reload button is at the bottom of the simulator.
