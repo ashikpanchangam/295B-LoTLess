@@ -1,4 +1,4 @@
-# adv-ICE
+# 295B - Final Project, LoTLess
 
 Steps to run this repo:
 
